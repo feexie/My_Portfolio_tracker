@@ -1,5 +1,11 @@
+import styles from "./HeroStyles.module.css";
+
 function Hero() {
-  return <div>some other text</div>;
+  return (
+    <section id="hero">
+      <div></div>
+    </section>
+  );
 }
 
 export default Hero;
