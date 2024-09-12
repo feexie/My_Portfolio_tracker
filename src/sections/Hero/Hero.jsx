@@ -1,9 +1,9 @@
 import styles from "./HeroStyles.module.css";
-
+import heroImg from "../../assets/hero-img.png";
 function Hero() {
   return (
     <section id="hero">
-      <div></div>
+      <div><img src=""alt=""</div>
     </section>
   );
 }
