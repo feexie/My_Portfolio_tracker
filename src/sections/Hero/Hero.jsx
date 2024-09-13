@@ -1,6 +1,7 @@
 import styles from "./HeroStyles.module.css";
 import heroImg from "../../assets/hero-img.png";
 import themeIcon from "../../assets/sun.svg";
+import twitterIcon from "../../assets/twitter-light.svg";
 
 function Hero() {
   return (
@@ -23,6 +24,12 @@ function Hero() {
           <br />
           Yahaya
         </h1>
+        <h2>frontend Developer</h2>
+        <span>
+          <a href="http://twitter.com/" target="_blank">
+            <img src={twitterIcon} alt="Twitter icon" />
+          </a>
+        </span>
       </div>
     </section>
   );
