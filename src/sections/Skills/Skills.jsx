@@ -1,4 +1,4 @@
-import styles from "./SkillsStyles.module.css";
+import styles from "../Skills/Skills/SkillsStyles.module..css";
 import checkMarkIconDark from "../../assets/checkmark-dark.svg";
 import checkMarkIconLight from "../../assets/checkmark-light.svg";
 import SkillList from "../../common/SkillList";
