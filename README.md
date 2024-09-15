@@ -67,24 +67,16 @@ To run this project locally, follow these steps:
    Install dependencies:
    ```
 
-bash
-Copy code
 npm install
 Start the development server:
 
-bash
-Copy code
 npm run dev
 Open the app in your browser:
 
-bash
-Copy code
 http://localhost:3000
 Deployment
 This project is set up for deployment on platforms like Netlify or Vercel, which support static site hosting for React applications. The build can be generated using:
 
-bash
-Copy code
 npm run build
 Contributing
 If you’d like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions are always welcome!
@@ -92,13 +84,7 @@ If you’d like to contribute to this project, feel free to fork the repository 
 Contact
 You can reach me via the contact form in the application, or through the following platforms:
 
-GitHub: feexie
-LinkedIn: Your LinkedIn Profile
+GitHub: [feexie](https://github.com/feexie)
+LinkedIn:[ Your LinkedIn Profile](https://www.linkedin.com/in/yusuf-yahaya-425482158)
 
-License
-free
-
-python
-Copy code
-
-This README gives an overview of your project while also highlighting the skills and tools you've learned in the ALX curriculum. It positions you as a developer knowledgeable in modern web development practices. Let me know if you'd like further adjustments!
+## License
