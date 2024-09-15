@@ -25,16 +25,25 @@ src/ ├── assets/ # Static images and assets used in the app ├── comm
 
 ### **ALX Software Engineering Tools and Skills**
 
-As part of the **ALX Software Engineering curriculum**, I have gained hands-on experience with the following tools and concepts:
+As part of the specialization phase in the **ALX Software Engineering curriculum**, I have gained hands-on experience with the following tools and concepts:
 
-- **HTML/CSS/JavaScript**: The core building blocks of web development, enabling me to create responsive and interactive web applications.
-- **React**: Gained advanced knowledge in creating single-page applications (SPAs) using React, handling state management with hooks, and creating reusable components.
-- **Git**: Learned to work efficiently with Git for version control, managing branches, resolving conflicts, and collaborating with other developers.
-- **Linux Shell**: Proficient in navigating the Linux command line, using bash scripting for automation, and managing system resources.
-- **Agile Methodologies**: Exposure to Agile practices like Scrum and Kanban for project management, fostering iterative development and regular feedback loops.
-- **Continuous Integration/Continuous Deployment (CI/CD)**: Basic understanding of automated testing, integration, and deployment pipelines to streamline the development process.
+- **HTML/CSS/JavaScript**: Mastered these foundational technologies to build responsive and interactive web applications. Utilized HTML for structuring content, CSS for styling, and JavaScript for dynamic functionality.
+  The core building blocks of web development, enabling me to create responsive and interactive web applications.
+- **React**:Acquired advanced skills in developing single-page applications (SPAs) using React. This includes state management with React hooks, creating reusable components, and integrating with various APIs.
+  Gained advanced knowledge in creating single-page applications (SPAs) using React, handling state management with hooks, and creating reusable components.
+- Node.js: Gained experience in server-side JavaScript with Node.js, enabling server-side rendering, API development, and integration with frontend applications.
 
-### **Other Tools Integrated in This Project**
+**ESLint:** Used ESLint to enforce consistent coding practices and maintain code quality, identifying and addressing potential issues in JavaScript code.
+
+**Git:** Proficient in using Git for version control, including branch management, conflict resolution, and collaboration with other developers.
+
+**Responsive Design**: Implemented responsive design techniques to ensure applications are accessible and functional across diverse devices and screen sizes.
+
+**Agile Methodologies:** Applied Agile practices such as Scrum and Kanban, facilitating iterative development, regular feedback, and effective project management.
+
+**CI/CD Integration:** Developed a foundational understanding of Continuous Integration/Continuous Deployment (CI/CD) processes to automate testing, integration, and deployment, improving development efficiency and project quality.
+
+These skills and tools have been essential in developing modern, scalable, and maintainable solutions, demonstrating a comprehensive approach to frontend and backend development during this specialization phase.
 
 - **Sequelize ORM**: Though not used in this frontend project, I am familiar with Sequelize for working with databases in backend development, particularly in handling data persistence and MySQL operations.
 - **Express.js**: Experience with building RESTful APIs using Express.js for the backend, which powers the data flow between the frontend and the database in projects like my portfolio tracker.
